@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ejerciocio de introducucion HTML</title>
+  </head>
+  <body>
+    <!--Este es mi primer comentario de dos líneas
+Aprendiendo a documentar mi código con OpenBootcamp-->
+    <ul>
+      <li>
+        <a href="https://www.youtube.com/watch?v=l2mW0DxCBY4"
+          >Ambiente Acogedor de Cafetería Con Música Jazz Relajante, Sonidos de
+          Lluvia y Chimenea - 8 Horas
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/watch?v=6FYvZqroNMg"
+          >UN HATER NOS INSULTA A NENE CREATIVE Y A MI EN RANKED SSL | ROAD TO
+          SSL con NENE #3
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/watch?v=GXlckaGr0Eo"
+          >ASMR Programming - Coding Pacman - No Talking</a>
+      </li>
+    </ul>
+  </body>
+</html>
